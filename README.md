@@ -1,12 +1,12 @@
 # CTF-OverTheWhire-Bandit
 
-### Level0 --> Level1
+### Level0 → Level1
 ``ls``
 ``cat readme``
 
 Password : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
-### Level1 --> Level2
+### Level1 → Level2
 ``ls``
 ``cat < -`` 
 
